@@ -1,12 +1,12 @@
 /* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
-    background-color: black;
+    background-color: rgb(238, 8, 8);
 }
 
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('images/Background-Image.jpeg');
+    background: url('https://media.giphy.com/media/l41lS3Qhf9jq83hm0/giphy.gif');
     background-size:cover;
     position:relative;
 }
@@ -65,13 +65,13 @@
     cursor: pointer;
 }
 .fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
-    color: #008000;
+    color: #63faff;
 }
 .fab {
-    color: #000000;
+    color: #0f0f0f;
 }
 /* footer styling */
 #footer {
-    background-color: #808080;
+    background-color: #fff7b1;
     text-align: center;
 }
